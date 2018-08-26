@@ -1,2 +1,3 @@
 # hello-world
-a short description
+
+Greetings Team 4!
